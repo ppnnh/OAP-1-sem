@@ -1,0 +1,5 @@
+﻿  лаба6.3.cpp
+C:\Users\Lenovo\Desktop\ОАИП лабы\лаба6\лаба6.3\лаба6.3\лаба6.3.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Lenovo\Desktop\ОАИП лабы\лаба6\лаба6.3\лаба6.3\лаба6.3.cpp(11,30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\ОАИП лабы\лаба6\лаба6.3\лаба6.3\лаба6.3.cpp(11,17): warning C4101: n: неиспользованная локальная переменная
+  лаба6.3.vcxproj -> C:\Users\Lenovo\Desktop\ОАИП лабы\лаба6\лаба6.3\Debug\лаба6.3.exe
