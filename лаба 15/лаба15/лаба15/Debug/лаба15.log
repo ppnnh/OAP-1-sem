@@ -1,0 +1,5 @@
+﻿  лаба15.cpp
+C:\Users\Lenovo\Desktop\ОАИП лабы\лаба 15\лаба15\лаба15\лаба15.cpp(15,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\ОАИП лабы\лаба 15\лаба15\лаба15\лаба15.cpp(43,20): warning C4018: <: несоответствие типов со знаком и без знака
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\Lenovo\Desktop\ОАИП лабы\лаба 15\лаба15\Debug\лаба15.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
