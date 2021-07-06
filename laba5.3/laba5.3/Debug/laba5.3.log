@@ -1,0 +1,4 @@
+﻿  laba5.3.cpp
+C:\Users\Lenovo\Desktop\ОАИП лабы\laba5.3\laba5.3\laba5.3.cpp(9,20): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\ОАИП лабы\laba5.3\laba5.3\laba5.3.cpp(14,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  laba5.3.vcxproj -> C:\Users\Lenovo\Desktop\ОАИП лабы\laba5.3\Debug\laba5.3.exe

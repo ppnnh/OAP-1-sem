@@ -1,0 +1,5 @@
+﻿  laba5.3while.cpp
+C:\Users\Lenovo\Desktop\ОАИП лабы\laba5.3while\laba5.3while\laba5.3while.cpp(9,20): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\Desktop\ОАИП лабы\laba5.3while\laba5.3while\laba5.3while.cpp(14,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Lenovo\Desktop\ОАИП лабы\laba5.3while\laba5.3while\laba5.3while.cpp(17,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  laba5.3while.vcxproj -> C:\Users\Lenovo\Desktop\ОАИП лабы\laba5.3while\Debug\laba5.3while.exe
